@@ -1,1 +1,1 @@
-# dotnet-core-training
+# DotNet Core Training
